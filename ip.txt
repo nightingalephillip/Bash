@@ -1,1 +1,3 @@
+#add IP addresses that you want to scan to this file
+
 192.168.100.1
